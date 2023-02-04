@@ -1,0 +1,10 @@
+\documentclass[uplatex]{jsarticle}
+\usepackage{amsmath,amssymb}
+\usepackage{txfonts}
+\parindent = 0pt
+\begin{document}
+\gt
+
+＜ここに内容を書く＞
+
+\end{document}
